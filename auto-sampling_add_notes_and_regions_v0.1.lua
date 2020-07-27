@@ -1,7 +1,7 @@
 -- Version: 0.1, 2020-07-25
 -- Author: Jonas Tallhage, jonas@tallhage.se, https://github.com/jonastallhage
 -- License: MIT
--- Documentation: https://github.com/jonastallhage/autosampling-reascripts
+-- Documentation: https://github.com/jonastallhage/sampling-tools
 
 -- Usage: To run the script in reaper, select Actions > Show Action List > New Action
 --        > Load ReaScript and load the file.
