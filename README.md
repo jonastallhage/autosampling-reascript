@@ -7,3 +7,6 @@ ReaScript to add MIDI notes and regions for automatic sampling of e.g. external 
 After after adding notes/regions and recording (or adding a VST for output), select File > Render. Set Bounds to Project regions and File name to $region, this will export         each region to a file with the naming scheme:<br>
 <name_prefix>\_\<root note>\_\<low key>\_\<high key>\_\<min velocity>\_\<max velocity>\_\<group name><br>
 See e.g. https://www.adsrsounds.com/kontakt-tutorials/how-to-auto-map-samples-in-kontakt/ for instructions about how to use these names for automapping in Kontakt (a useful addition would be to add code for generating an .sfz file with mappings).
+
+## sfz_from_dir
+Create a .sfz file from the contents of a directory, all files must have the expected naming scheme which can be set using the -f argument. Use -h to see arguments with hints for values.
