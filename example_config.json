@@ -1,0 +1,17 @@
+{
+    "Input dir": "example_input",
+    "Crossing type": "negative",
+    "Loop start": 1,
+    "Loop end": 14,
+    "Min loop length": 12,
+    "Method": "truncate",
+    "Audition length": 3,
+    "Plot length": 3,
+    "Write diagnostics": 1,
+    "Write CSV": 1,
+    "Compare length pre": 0.010,
+    "Compare length post": 0.010,
+    "Weighting": "ones",
+    "Write looped samples": 1,
+    "N workers": 7
+}
