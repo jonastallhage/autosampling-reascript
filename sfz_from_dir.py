@@ -1,4 +1,4 @@
-# Version: 0.1, 2020-07-27
+# Version: 0.2, 2021-04-11
 # Author: Jonas Tallhage, jonas@tallhage.se, https://github.com/jonastallhage
 # License: MIT
 # Documentation: https://github.com/jonastallhage/sampling-tools
